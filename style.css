@@ -106,18 +106,14 @@ a{
     padding: 7px  30px;
     background: rgb(214, 199, 199);
     z-index: 0;
-    color: white;
+    color: black;
     border: none;
 }
 
 .button-section1:hover{
     background: gray;
     cursor: pointer;
-}
-
-.span-button{
-    transform: translateY(-25%);
-    display: inline-block;
+    color: white;
 }
 
 .form-section1{
