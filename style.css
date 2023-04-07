@@ -63,7 +63,7 @@ a{
 
 .section1{
     /* position: relative; */
-    background: url(IMG/hotel.jpg) center center / cover;
+    background: url(hotel.jpg) center center / cover;
     padding-top: 50px;
     padding-bottom: 50px;
 }
